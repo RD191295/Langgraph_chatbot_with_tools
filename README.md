@@ -144,7 +144,9 @@ Please ensure your code follows the existing style and includes appropriate test
 _____________________________________________________________________________________________________________________________________________________________________________
 
 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/RD191295/Langgraph_chatbot_with_tools/blob/main/LICENSE) file for details.
+
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
