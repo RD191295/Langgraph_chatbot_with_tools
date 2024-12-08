@@ -141,8 +141,12 @@ Make your changes and add tests.
 Submit a pull request.
 Please ensure your code follows the existing style and includes appropriate tests.
 
+_____________________________________________________________________________________________________________________________________________________________________________
+
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+_____________________________________________________________________________________________________________________________________________________________________________
 
 🛠️ Dependencies
 LangGraph: Framework for managing state-based workflows.
