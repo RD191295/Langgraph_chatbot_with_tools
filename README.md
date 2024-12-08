@@ -105,7 +105,7 @@ except:
 🎨Visualizing the Workflow
 Here’s a graphical representation of the LangGraph workflow:
 
-![Chatbot Graph](https://github.com/RD191295/Langgraph_chatbot_with_tools//blob/main/Image/chatbot-graph.png)
+![Chatbot Graph](https://github.com/RD191295/Langgraph_chatbot_with_tools/raw/main/Image/chatbot-graph.png)
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
