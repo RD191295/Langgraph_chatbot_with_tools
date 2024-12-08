@@ -105,7 +105,7 @@ except:
 🎨Visualizing the Workflow
 Here’s a graphical representation of the LangGraph workflow:
 
-<img src="https://via.placeholder.com/700x400.png?text=LangGraph+Workflow" alt="Workflow Diagram">
+![Chatbot Graph](https://github.com/RD191295/Langgraph_chatbot_with_tools/raw/main/images/chatbot-graph.png)
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
