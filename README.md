@@ -147,16 +147,33 @@ ________________________________________________________________________________
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/RD191295/Langgraph_chatbot_with_tools/blob/main/LICENSE) file for details.
 
+_____________________________________________________________________________________________________________________________________________________________________________
+
+🛠️ Dependencies (Frameworks & Tools)
+
+1. [LangGraph](https://github.com/langchain/langgraph): Framework for managing state-based workflows.
+2. [LangChain](https://langchain.com/): A framework to build applications powered by large language models (LLMs).
+3. [LangChain Groq](https://github.com/langchain/langchain_groq): Integrates Groq's powerful LLM models.
+4. [Groq](https://groq.com/): Use Groq’s advanced LLM model (Gemma2-9b-It).
+5. [Arxiv](https://python.langchain.com/docs/integrations/tools/arxiv/): Interface for fetching academic papers from Arxiv.
+6. [Wikipedia](https://python.langchain.com/docs/integrations/tools/wikipedia/): Interface for fetching articles from Wikipedia.
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
-🛠️ Dependencies
-LangGraph: Framework for managing state-based workflows.
-LangChain: A framework to build applications powered by large language models (LLMs).
-Langchain_Groq: Integrates Groq's powerful LLM models.
-Arxiv: Interface for fetching academic papers from Arxiv.
-Wikipedia: Interface for fetching articles from Wikipedia.
-Groq: Use Groq’s advanced LLM model (Gemma2-9b-It).
+## 📋 Links
+
+- [View Commit](https://github.com/RD191295/Langgraph_chatbot_with_tools/commit/)
+- [Link to Issue](https://github.com/RD191295/Langgraph_chatbot_with_tools/issues/)
+
+_____________________________________________________________________________________________________________________________________________________________________________
+
+## ☕ Buy Me a Coffee
+
+If you enjoy this project, you can support me by buying me a coffee!
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yourusername)
+
+_____________________________________________________________________________________________________________________________________________________________________________
 
 This is a complete walkthrough of setting up and running the LangGraph Chatbot with integrated tools like Arxiv and Wikipedia. With these integrations, the chatbot can handle dynamic queries and provide real-time information, making it a highly adaptable conversational agent.
 
